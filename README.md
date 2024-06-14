@@ -80,7 +80,7 @@ project_directory/
         {
             "plans_id": 1,
             "plans_number": 1,
-            "plans_day": "الأحد",
+            "plans_day": "Sunday",
             "plans_time_1": "08:00 - 09:00",
             "plans_subject_1": "Math",
             "plans_time_2": "09:00 - 10:00",
