@@ -51,18 +51,19 @@ project_directory/
 ├── schedule.xlsx
 ├── transform_script.py
 ├── transformed_data/
-│ ├── excel_files/
-│ │ ├── sheet1_transformed.xlsx
-│ │ ├── sheet2_transformed.xlsx
-│ │ └── ...
-│ ├── json_files/
-│ │ ├── sheet1_transformed.json
-│ │ ├── sheet2_transformed.json
-│ │ └── ...
-│ └── sql_files/
-│ ├── sheet1_transformed.sql
-│ ├── sheet2_transformed.sql
-│ └── ...
+│   ├── excel_files/
+│   │   ├── sheet1_transformed.xlsx
+│   │   ├── sheet2_transformed.xlsx
+│   │   └── ...
+│   ├── json_files/
+│   │   ├── sheet1_transformed.json
+│   │   ├── sheet2_transformed.json
+│   │   └── ...
+│   └── sql_files/
+│       ├── sheet1_transformed.sql
+│       ├── sheet2_transformed.sql
+│       └── ...
+
 
 
 ## Example
