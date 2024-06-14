@@ -47,22 +47,21 @@ This project provides a script to transform Excel sheets into separate Excel, JS
 The script will create the following folder structure to save the transformed files:
 
 project_directory/
-│
 ├── schedule.xlsx
 ├── transform_script.py
-├── transformed_data/
-│ ├── excel_files/
-│ │ ├── sheet1_transformed.xlsx
-│ │ ├── sheet2_transformed.xlsx
-│ │ └── ...
-│ ├── json_files/
-│ │ ├── sheet1_transformed.json
-│ │ ├── sheet2_transformed.json
-│ │ └── ...
-│ └── sql_files/
-│ ├── sheet1_transformed.sql
-│ ├── sheet2_transformed.sql
+└── transformed_data/
+├── excel_files/
+│ ├── sheet1_transformed.xlsx
+│ ├── sheet2_transformed.xlsx
 │ └── ...
+├── json_files/
+│ ├── sheet1_transformed.json
+│ ├── sheet2_transformed.json
+│ └── ...
+└── sql_files/
+├── sheet1_transformed.sql
+├── sheet2_transformed.sql
+└── ...
 
 
 ## Example
